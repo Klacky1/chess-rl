@@ -1,0 +1,42 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAADQDQAAAAAAAL0NAAAAAADQuw0A0AAAAL27DQC9DQDQu7sN0Lvb3b27uw29u7u7u7u7Db27u7u7u7sNvbu7u7u7uw3Qu9vdvbu7DQC9DQDQu7sNANAAAAC9uw0AAAAAANC7DQAAAAAAAL0NAAAAAAAA0A0AAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "blackPawn"
+    },
+    "image3": {
+        "data": "hwQQABAAAAAAAAAAAABwBwAAAAAAABcHAAAAAABwEQcAcAAAABcRBwAXBwBwEREHcBFxdxcREQcXERERERERBxcREREREREHFxEREREREQdwEXF3FxERBwAQBwBwEREHAHAAAAAXEQcAAAAAAHARBwAAAAAAABcHAAAAAAAAcAcAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage0"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "ToweR"
+    },
+    "image4": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAADw//8PAAAAAN/d3Q8AAADw3d3d/////9/d393d3d3d3d3d3d3d3d3d3d3d3d3d3d3d393d3d3d3d3d3d3d3d3d3d3d3d3d3d3d393/////393d3Q8AAADw3f//DwAAAADfAAAAAAAAAPAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Tower"
+    },
+    "image5": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAADw//8PAAAAAL+7uw8AAADwu7u7/////7+7v7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7v7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7v7v/////v7u7uw8AAADwu///DwAAAAC/AAAAAAAAAPAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Tower0"
+    },
+    "image7": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAAvQ0AAAAAANC7290N0N3dvbu7u93du9u7u7u7u7u727u7u7u7u7vbu7u7u7u7u9u9u7u7u7u72927u7u7u7vb0L27u7u7u9sA3d27u7u72wAA0N27u93dAAAA0N3dDQAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "horse"
+    },
+    "image6": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAAFwcAAAAAAHARcXcHcHd3FxEREXd3EXERERERERERcRERERERERFxEREREREREXEXERERERERcXcRERERERFxcBcREREREXEAd3cRERERcQAAcHcREXd3AAAAcHd3BwAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "horse white"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
